@@ -1,4 +1,6 @@
-## About Me
+# About Me
+![Personal Picture](./imgs/20170626_135834.jpg)
+### Beyond formidable obstacles a brighter future shines
 
 You can use the [editor on GitHub](https://github.com/lisaula/About_Me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,8 +29,6 @@ Syntax highlighted code block
 ```
 
 If you want to embed images, this is how you do it:
-
-![Personal Picture](./imgs/20170626_135834.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
