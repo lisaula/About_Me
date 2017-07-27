@@ -1,7 +1,10 @@
-# Beyond formidable obstacles a brighter future shines
+# "Beyond formidable obstacles a brighter future shines"
 ### Morris Chang
 ![Personal Picture](./imgs/personal_pic.png)
 ## About Me
+
+### Carreer Objective
+	Become a distinguished programmer and excel in the realm of technology applying all the effort and knowledge to overcome life’s obstacles.
 
 You can use the [editor on GitHub](https://github.com/lisaula/About_Me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
