@@ -1,6 +1,7 @@
-# About Me
+# Beyond formidable obstacles a brighter future shines
+### Morris Chang
 ![Personal Picture](./imgs/personal_pic.png)
-##### Beyond formidable obstacles a brighter future shines - Morris Chang
+## About Me
 
 You can use the [editor on GitHub](https://github.com/lisaula/About_Me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
