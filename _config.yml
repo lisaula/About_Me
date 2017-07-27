@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Luis Carlos Isaula
 description: Formidable student of System Computer Engineer.
+navbar:
+  title: "Abhishek Gupta"
