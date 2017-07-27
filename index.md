@@ -4,7 +4,13 @@
 ## About Me
 
 ### Carreer Objective
-	Become a distinguished programmer and excel in the realm of technology applying all the effort and knowledge to overcome life’s obstacles.
+Become a distinguished programmer and excel in the realm of technology applying all the effort and knowledge to overcome life’s obstacles.
+
+### Education
+* University
+	* Bachelor’s in Computer System Engineer (current) – Universidad Tecnológica Centroamericana UNITEC
+* High School
+	* Diploma in Science and Arts (2011-2012) – Instituto Técnico de San Pedro Sula
 
 You can use the [editor on GitHub](https://github.com/lisaula/About_Me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
