@@ -26,6 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
