@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://github.com/lisaula/About_Me/blob/master/imgs/20170626_135834.jpg)
+![Personal Picture](./imgs/20170626_135834.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
